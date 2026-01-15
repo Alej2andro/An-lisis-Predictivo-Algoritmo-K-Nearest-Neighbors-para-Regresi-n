@@ -1333,7 +1333,7 @@ cat("Interpretación:", ifelse(dw_test$p > 0.05, "✓ Independencia de observaci
 ```
 
     Estadístico Durbin-Watson: 1.941 
-    p-valor: 0.542 
+    p-valor: 0.572 
     Interpretación: ✓ Independencia de observaciones confirmada 
 
 ``` r
@@ -4342,6 +4342,6 @@ la complejidad matemática per se.
 
 ------------------------------------------------------------------------
 
-**Documento generado el:** 2026-01-15 18:02:01.288914  
+**Documento generado el:** 2026-01-15 18:35:36.311036  
 **Versión de R:** R version 4.5.2 (2025-10-31 ucrt)  
 **Sistema operativo:** Windows
