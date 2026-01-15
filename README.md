@@ -1,7 +1,6 @@
 # 📊 Análisis Predictivo: Algoritmo K-Nearest Neighbors (KNN) para Regresión
 
 [![R Markdown](https://img.shields.io/badge/R%20Markdown-Checked-blue.svg)](https://rmarkdown.rstudio.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://alej2andro.github.io/An-lisis-Predictivo-Algoritmo-K-Nearest-Neighbors-para-Regresi-n/)
 
 ## 📝 Descripción del Proyecto
